@@ -1,6 +1,6 @@
 # Epicodus Intro to Programming Unit 3.3 Practice: Behavior-Driven Development
 
-#### Final Project for Epicodus Unit Two, 01/16/2019 start date.
+#### Final Project for Epicodus Unit Two, 01/16/2019 start date, 01/18/2019.
 
 #### By **Robert James "Jimmy" Gore**
 
